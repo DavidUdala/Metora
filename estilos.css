@@ -4,3 +4,19 @@
 .divs-facilidades{
     width: 365px;
 }
+
+.cor-meteora-verde{
+    color: #DAFF01;
+}
+.bg-cor-meteora-roxa{
+    background-color: #9353FF;
+}
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
